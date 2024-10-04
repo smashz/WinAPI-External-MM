@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\PJS\WinAPI Practice\main.cpp(69,27): warning C4018: '<': signed/unsigned mismatch
+C:\PJS\WinAPI Practice\main.cpp(89,17): error C2660: 'WriteProcessMemory': function does not take 4 arguments
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\memoryapi.h(164,1):
+      see declaration of 'WriteProcessMemory'
+      C:\PJS\WinAPI Practice\main.cpp(89,17):
+      while trying to match the argument list '(HANDLE, LPVOID, int *, int)'
+  
